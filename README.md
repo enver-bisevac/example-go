@@ -1,3 +1,3 @@
 # example-go
 
-basic example
+basic example 1
